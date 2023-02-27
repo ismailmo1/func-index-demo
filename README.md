@@ -1,6 +1,6 @@
 # Functional Indexes
 
-This demo supports [this blog post](https://blog.ismailmo.com) on flask-security and functional indexes, It includes a simple flask app that uses flask-security for login/auth stuff, postgres for the db, and locust to do load testing on login times before and after adding a functional index.
+This demo supports [this blog post](https://blog.ismailmo.com/posts/func-indexes/) on flask-security and functional indexes, It includes a simple flask app that uses flask-security for login/auth stuff, postgres for the db, and locust to do load testing on login times before and after adding a functional index.
 
 ## Setup
 
